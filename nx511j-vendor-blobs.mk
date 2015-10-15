@@ -85,6 +85,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx511j/proprietary/lib/modules/texfat.ko:system/lib/modules/texfat.ko \
     vendor/zte/nx511j/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/zte/nx511j/proprietary/lib/libmorpho_image_converter.so:system/lib/libmorpho_image_converter.so \
+    vendor/zte/nx511j/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
+    vendor/zte/nx511j/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
     vendor/zte/nx511j/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/zte/nx511j/proprietary/lib64/libmorpho_jpeg_io.so:system/lib64/libmorpho_jpeg_io.so \
     vendor/zte/nx511j/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
